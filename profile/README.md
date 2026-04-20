@@ -1,11 +1,9 @@
-# ReefLiger 🦁
+# ReefLiger LLC
 
-> Your agent. Your phone. Your rules.
+We build GavelPower — the enterprise and government-grade agentic platform.
 
-Native Android AI agent powered by RLMXF — 
-building the first on-device AI that routes 
-to the best model for every task while keeping 
-your raw data private.
+29-agent AI fleet · Persistent Agent Brain · RLMXF protocol · FedRAMP path
 
-**Coming soon.** Watch this space.
-```
+🌐 reefliger.com
+
+IP owned by TeraSteed LLC. Licensed to ReefLiger LLC for development and operation.
